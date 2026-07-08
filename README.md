@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm a **Junior Technical Operator** and **Builder** based in the Greater Toronto Area. I recently graduated with a Bachelor of Engineering in Software Engineering from McMaster University[cite: 1]. I have experience across several co-op and internship terms, including roles as a Software Engineer Intern at the Ontario Government, a Technical Intern at Kyocera, a Consultant Analyst Intern at Accenture, a Developer Intern at OPTrust, and a Junior Software Engineer at Aversa[cite: 1].
+I'm a SWE based in the Greater Toronto Area. I recently graduated with a Bachelor of Engineering in Software Engineering from McMaster University. I have experience across several co-op and internship terms, including roles as a Software Engineer Intern at the Ontario Government, a Technical Intern at Kyocera, a Consultant Analyst Intern at Accenture, a Developer Intern at OPTrust, and a Junior Software Engineer at Aversa.
 
 I specialize in full-stack web and mobile development, frequently leveraging AI-assisted tools to accelerate development cycles.
 
@@ -19,11 +19,10 @@ I specialize in full-stack web and mobile development, frequently leveraging AI-
 
 ### 🚀 What I've Been Building
 
-*   **Tyaari ([tyaari.ca](https://tyaari.ca)):** A full-stack South Asian event marketplace and business management tool[cite: 1]. It features a live booking engine capable of handling over 100 concurrent users and was built using Next.js and Supabase[cite: 1].
-*   **Hitchly ([github.com/hitchly](https://github.com/hitchly)):** A campus-focused rideshare application developed for my university capstone[cite: 1]. It was built using React Native, TypeScript, Expo, Node.js, and PostgreSQL, and includes admin functionality as well as a user rating system[cite: 1].
+*   **Tyaari ([tyaari.ca](https://tyaari.ca)):** A full-stack South Asian event marketplace and business management tool. It features a live booking engine capable of handling over 100 concurrent users and was built using Next.js and Supabase.
+*   **Hitchly ([github.com/hitchly](https://github.com/hitchly)):** A campus-focused rideshare application developed for my university capstone. It was built using React Native, TypeScript, Expo, Node.js, and PostgreSQL, and includes admin functionality as well as a user rating system.
 
 ### 📫 Connect with me
 
-*   **LinkedIn:** [linkedin.com/in/sarim-zia/](https://www.linkedin.com/in/sarim-zia/)[cite: 1]
-*   **GitHub:** [github.com/sarzar](https://github.com/sarzar)[cite: 1]
-*   **Email:** [ziasarim1@gmail.com](mailto:ziasarim1@gmail.com)[cite: 1]
+*   **LinkedIn:** [linkedin.com/in/sarim-zia/](https://www.linkedin.com/in/sarim-zia/)
+*   **Email:** [ziasarim1@gmail.com](mailto:ziasarim1@gmail.com)
